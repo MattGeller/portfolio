@@ -816,6 +816,8 @@ a:focus,
     transition:all 0.3s ease-out;
 }
 
+/*This part made that little arrow at the bottom of the hover mask.*/
+/*
 .project-item .hover-mask:after{
     display:block;
     position:absolute;
@@ -825,6 +827,7 @@ a:focus,
     left:175px;
     color:#fff;
 }
+*/
 
 .masonry,
 .masonry .masonry-brick {
