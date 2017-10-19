@@ -644,6 +644,11 @@ a:focus,
     /*margin:50px 0;*/
     /*text-align: center;*/
 /*}*/
+.logo{
+    display: inline-block;
+    position: relative;
+    width: 140px;
+}
 
 .chart canvas {
   position: absolute;
