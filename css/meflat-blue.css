@@ -636,6 +636,20 @@ a:focus,
   text-align: center;
 }
 
+/*.skills span{*/
+    /*position: relative;*/
+    /*display: inline-block;*/
+    /*width: 140px;*/
+    /*height: 140px;*/
+    /*margin:50px 0;*/
+    /*text-align: center;*/
+/*}*/
+.logo{
+    display: inline-block;
+    position: relative;
+    width: 140px;
+}
+
 .chart canvas {
   position: absolute;
   top: 0;
