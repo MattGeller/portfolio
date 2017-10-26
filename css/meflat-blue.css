@@ -648,6 +648,7 @@ a:focus,
     display: inline-block;
     position: relative;
     width: 140px;
+    /*height: 140px;*/
 }
 
 .chart canvas {
